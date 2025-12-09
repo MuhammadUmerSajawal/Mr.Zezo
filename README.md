@@ -1,6 +1,6 @@
 # Mr Zezo – Pizza & Burger House
 
-Modern single-page site for Mr Zezo Pizza & Burger House, built with React, Tailwind CSS, and Framer Motion.
+A site for Mr Zezo Pizza & Burger House, built with React, Tailwind CSS, and Framer Motion.
 
 ## Tech stack
 - React (Create React App)
